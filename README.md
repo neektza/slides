@@ -31,7 +31,7 @@
 
 ## 2015-11-24
 
-[Nikica Jokic](https://github.com/neektza) - Demistyfied Sidekiq
+[Nikica Jokic](https://github.com/neektza) - [Sidekiq, demistified](http://pltconfusion.com/talks/sidekiq_demistified.html#1)
 
 [Vedran Hrncic](https://github.com/vr4b4c) - Sketching object model using common sense
 
